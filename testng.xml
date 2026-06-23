@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Sample Test Suite">
+    <test name="SampleTests" >
+        <classes>
+            <class name="com.testing.comprehensive.LogInPageTest" />
+            <class name="com.testing.comprehensive.HomePageTest" />
+            <class name="com.testing.comprehensive.EBankAppTest2"/>
+            <class name="com.testing.comprehensive.BlogHubTest2"/>
+        </classes>
+    </test>
+</suite>
